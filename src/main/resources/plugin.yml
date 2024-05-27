@@ -1,0 +1,14 @@
+name: Ursas
+version: 1.0
+main: me.yuqas.Main
+commands:
+  basla:
+    description: Oyuna başlama komutu
+    usage: /basla
+  spawn:
+    description: Spawn noktasına ışınlanma komutu
+    usage: /spawn
+permissions:
+  yuqascore.perm:
+    description: Plugin komutlarını kullanma izni
+    default: true    
