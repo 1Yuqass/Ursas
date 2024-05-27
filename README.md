@@ -8,7 +8,7 @@
     </div>
 
 ## Usage
-minecraft rtp,spawn and location plugin survival assistant
+minecraft rtp,spawn and location plugin survival assistant. :)
 
 ### Building
 - download maven
